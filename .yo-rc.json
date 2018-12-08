@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.codingspiderfox",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipsterMQTTExample",
+    "packageName": "org.codingspiderfox",
+    "packageFolder": "org/codingspiderfox",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTVlOWM5YWExMzE0MjUxODljMTZkZWUxMTAwOGExNzU2MmVmZDJjYzFjNTM2YjVlYjY4M2I1MzViZjVkMjc3YTExODRlN2NhY2M2NDI5M2MzMjg4NDk2OTRhNzMzMDUyY2I5Yjk4N2RlZjc5YjVhNThjODVlNTMxZWM2MTNhMWY=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
